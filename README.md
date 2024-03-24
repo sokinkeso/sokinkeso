@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I started programming with Basic language back in the 80's and later VB6 had become my favorite programming language, although I have used several others in the past, because I believe it offered simplicity, convenience and low-level capability that no other language has.
+I started programming with Basic language back in the 80's and later VB6 had become my favorite programming language, although I have used several others in the past, because I believe it offered simplicity, ease of use and low-level capability that no other language has.
 With the advent of twinBASIC, which aims to be 100% backwards compatible with the VB6 language, I have now switched to twinBasic and am trying to port all my projects to it.
 I'm a big fan of twinBasic and my goal is to help as much as I can to make it more widely known, and  also to offer at least a small contribution with new functionalities by creating addins and new Usercontrols.
 <!--

@@ -10,6 +10,7 @@ I'm a big fan of twinBasic and my goal is to help as much as I can to make it mo
 Here you can find my latest work:
 
 ### [AutoSave Addin for twinBasic](https://github.com/sokinkeso/AutoSaveAddin)
+<img src="https://github.com/sokinkeso/AutoSaveAddin/assets/113173954/502991c5-bdf0-4c88-b18b-f8f8b6b63aef" width="50%">
 
 ### [Usercontrol Builder Addin for twinBasic](https://github.com/sokinkeso/Usercontrol-Builder-for-TwinBASIC)
 

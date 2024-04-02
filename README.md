@@ -11,6 +11,7 @@ You can find:
 
 ### [AutoSave Addin for twinBasic](https://github.com/sokinkeso/AutoSaveAddin)
 
+### [Usercontrol Builder Addin for twinBasic](https://github.com/sokinkeso/Usercontrol-Builder-for-TwinBASIC)
 
 <!--
 **sokinkeso/sokinkeso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -15,6 +15,8 @@ Here you can find my latest work:
 
 ### [MsgBox Builder Addin for twinBasic](https://github.com/sokinkeso/MsgBox-Builder-Addin-for-twinBasic)
 
+### [String Converter Addin for twinBasic](https://github.com/sokinkeso/String-Converter-Addin-for-twinBasic)
+
 
 <!--
 **sokinkeso/sokinkeso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

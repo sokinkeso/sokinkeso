@@ -19,6 +19,7 @@ Here you can find my latest work:
 <a href="https://github.com/sokinkeso/MsgBox-Builder-Addin-for-twinBasic"><img src="https://github.com/sokinkeso/MsgBox-Builder-Addin-for-twinBasic/assets/113173954/fce25964-9517-4e7e-a608-06bbd3c9362f" width="50%"></a>
 
 ### [String Converter Addin for twinBasic](https://github.com/sokinkeso/String-Converter-Addin-for-twinBasic)
+<a href="https://github.com/sokinkeso/String-Converter-Addin-for-twinBasic"><img src="https://github.com/sokinkeso/String-Converter-Addin-for-twinBasic/assets/113173954/b28f45bf-d85c-4044-bb53-e3f73ecf7f82" width="50%"></a>
 
 
 <!--

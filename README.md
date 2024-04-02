@@ -13,6 +13,9 @@ You can find:
 
 ### [Usercontrol Builder Addin for twinBasic](https://github.com/sokinkeso/Usercontrol-Builder-for-TwinBASIC)
 
+### [MsgBox Builder Addin for twinBasic](https://github.com/sokinkeso/MsgBox-Builder-Addin-for-twinBasic)
+
+
 <!--
 **sokinkeso/sokinkeso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

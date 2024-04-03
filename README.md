@@ -25,6 +25,9 @@ Here you can find my latest work:
 <a href="https://github.com/sokinkeso/Comments-Addin-for-twinBasic"><img src="https://github.com/sokinkeso/Comments-Addin-for-twinBasic/assets/113173954/1ace641d-634f-4a5f-a783-f7465cdfb92c" width="50%"></a>
 
 
+https://github.com/sokinkeso/String-Converter-Addin-for-twinBasic
+
+
 <!--
 **sokinkeso/sokinkeso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

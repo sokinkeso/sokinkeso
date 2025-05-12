@@ -7,7 +7,11 @@ With the advent of twinBASIC, which aims to be 100% backwards compatible with th
 I'm a big fan of twinBasic and my goal is to help as much as I can to make it more widely known, and  also to offer at least a small contribution with new functionalities by creating addins and new Usercontrols.
 
 
-Here you can find my latest work:
+### Here you can find my latest work:
+
+### [CopyPasteEx Addin for twinBasic](https://github.com/sokinkeso/CopyPasteEx-Addin-for-twinBASIC)
+<a href="https://github.com/sokinkeso/CopyPasteEx-Addin-for-twinBASIC"><img src="https://github.com/user-attachments/assets/1302a3bc-4502-45c7-beb8-7f13b23761fd" width="50%"></a>
+
 ### [TabOrder Addin for twinBasic](https://github.com/sokinkeso/TabOrder-Addin-for-twinBASIC)
 <a href="https://github.com/sokinkeso/TabOrder-Addin-for-twinBASIC"><img src="https://github.com/user-attachments/assets/aaa84fa7-de5d-41cd-a0fe-1fa665dc4e8b" width="50%"></a>
 
